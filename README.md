@@ -1,6 +1,7 @@
 
 This app is a tutorial guided to dive into a simple iOS recipe - how to play sound and use an Apple library called AVFoundation. 
 
+App Preview on Youtube : https://youtu.be/NllSYKJLY2Q
 
 What I learned
 
